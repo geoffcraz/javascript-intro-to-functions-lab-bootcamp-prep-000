@@ -1,8 +1,8 @@
-function shout(string) {
-  var shiyat = (`${string}`)
-  shiyat.toUpperCase()
-  console.log(shiyat)
-  return shiyat
+function shout("a") {
+  var s = (`${a}`);
+  var loudAf = s.toUpperCase();
+  console.log(loudAF);
+  return loudAF
 
 }
 
