@@ -27,4 +27,4 @@ function sayHiToGrandma(string) {
 
 }
 
-shout("dick")
+shout("dickface")
