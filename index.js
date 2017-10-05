@@ -1,5 +1,5 @@
-function shout(a) {
-  var sH = (`${a}`);
+function shout(string) {
+  var sH = (`${string}`);
   return console.log(a.toUpperCase())
 
 
