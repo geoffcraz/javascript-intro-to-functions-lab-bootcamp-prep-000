@@ -1,4 +1,4 @@
-function shout("a") {
+function shout(a) {
   var s = (`${a}`);
   var loudAf = s.toUpperCase();
   console.log(loudAF);
