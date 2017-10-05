@@ -1,7 +1,9 @@
 function shout(string) {
-  console.log(`${string}`)
-  return string.toUpperCase()
-  
+  var shiyat = `${string}`
+  shiyat.toUpperCase()
+  console.log(shiyat)
+  return shiyat
+
 }
 
 function whisper(string) {
