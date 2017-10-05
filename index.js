@@ -1,5 +1,5 @@
 function shout(string) {
-  var shiyat = `${string}`
+  var shiyat = (`${string}`)
   shiyat.toUpperCase()
   console.log(shiyat)
   return shiyat
