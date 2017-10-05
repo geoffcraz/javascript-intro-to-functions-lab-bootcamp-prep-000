@@ -1,7 +1,7 @@
 function shout(a) {
   var s = (`${a}`);
   var loudAf = s.toUpperCase();
-  console.log(loudAF);
+  console.log(loudAF.toString());
   return loudAF
 
 }
