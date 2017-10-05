@@ -1,7 +1,8 @@
 function shout(a) {
   var sH = (`${a}`);
   console.log(a.toUpperCase())
-  
+  return
+
 
 }
 
